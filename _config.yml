@@ -1,0 +1,23 @@
+name: LunaHusky
+favicon: null
+layout_spectrum: 0.28934203973039985
+typography_spectrum: 0.08504086476750672
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7569252599496394
+  lightness: 0.6338749947026372
+  saturation: 0.9144786552060395
+  rhythmicContrast: 0.13110287906602025
+purpose: []
