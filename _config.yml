@@ -24,6 +24,6 @@ color:
     - '#ecce9c'
   brandStrength: 1
   lightness: 0.8125
-  saturation: 0.1875
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
